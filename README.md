@@ -1,1 +1,1 @@
-https://github.com/AdminSoft-ObySoft/Single-PageCv
+https://github.com/AdminSoft-ObySoft/Single-PageCv.git
